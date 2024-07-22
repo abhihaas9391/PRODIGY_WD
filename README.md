@@ -6,7 +6,7 @@ This repository contains projects developed during my internship at Prodigy Info
 
 | Project Name       | Link                   |
 |--------------------|------------------------|
-| Project 1          | [Link to Project 1](#) |
+| Calculator         | [DEMO](https://abhihaas9391.github.io/calculator/) |
 | Project 2          | [Link to Project 2](#) |
 | Project 3          | [Link to Project 3](#) |
 | Project 4          | [Link to Project 4](#) |
@@ -14,7 +14,7 @@ This repository contains projects developed during my internship at Prodigy Info
 ## Description
 
 ### Project 1
-*Description of Project 1, the technologies used, and its purpose.*
+*This is a bacic calculator webpage with a fully functional UI, and also works in devices with any resolution.*
 
 ### Project 2
 *Description of Project 2, the technologies used, and its purpose.*
