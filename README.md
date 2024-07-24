@@ -7,7 +7,7 @@ This repository contains projects developed during my internship at Prodigy Info
 | Project Name       | Link                   |
 |--------------------|------------------------|
 | Calculator         | [DEMO](https://abhihaas9391.github.io/calculator/) |
-| Project 2          | [Link to Project 2](#) |
+| Tic-Tac-Toe        | [DEMO](https://abhihaas9391.github.io/tic-tac-toe/) |
 | Project 3          | [Link to Project 3](#) |
 | Project 4          | [Link to Project 4](#) |
 
@@ -16,8 +16,8 @@ This repository contains projects developed during my internship at Prodigy Info
 ### Project 1
 *This is a bacic calculator webpage with a fully functional UI, and also works in devices with any resolution.*
 
-### Project 2
-*Description of Project 2, the technologies used, and its purpose.*
+### Tic-Tac-Toe
+*This is a Tic-Tac_toe game simulator webpage with a mininal user-interface.*
 
 ### Project 3
 *Description of Project 3, the technologies used, and its purpose.*
